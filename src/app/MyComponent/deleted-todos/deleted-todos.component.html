@@ -1,0 +1,6 @@
+<div class="my-3">
+    <h2 class="text-center-mb5">Deleted Todos</h2>
+        <div *ngFor="let todo of deletedTodos">
+            <app-todo-item [todo]="todo"></app-todo-item>
+        </div>
+</div>
