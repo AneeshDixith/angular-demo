@@ -1,5 +1,5 @@
 # AngularDemo
-A todo web application built using angular.
+A todo web application built using angular to explore the process of development in angular.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.4.
 
